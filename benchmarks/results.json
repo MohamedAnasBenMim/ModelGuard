@@ -1,0 +1,12 @@
+{
+  "pr_auc": 0.792,
+  "training_ms": 4645.12,
+  "serving_p95_ms": 0.0023,
+  "max_train_serving_delta": 5e-07,
+  "drift": {
+    "psi": 1.6282,
+    "drift_detected": true,
+    "threshold": 0.2
+  },
+  "model_version": "fraud-991e1cf5"
+}
